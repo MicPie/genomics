@@ -1,2 +1,5 @@
 # genomics
 Deep learning in genomics
+
+The notebooks in this repository are based on the [jupyter notebook](https://github.com/abidlabs/deep-learning-genomics-primer/blob/master/A_Primer_on_Deep_Learning_in_Genomics_Public.ipynb) from the publication ["A primer on deep learning in genomics"](https://www.nature.com/articles/s41588-018-0295-5) but use the [PyTorch](https://pytorch.org) and [fastai](https://www.fast.ai) library.
+
