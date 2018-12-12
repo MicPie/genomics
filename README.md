@@ -8,4 +8,4 @@ The notebooks in this repository are based on the [jupyter notebook](https://git
 
 * [Basic model with PyTorch]()
 * [Basic model with fastai and PyTorch]()
-* [Custom ResNet18 model with fastai and PyTorch]()
+* [Custom ResNet model with fastai and PyTorch]()
